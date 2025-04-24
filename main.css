@@ -1,4 +1,6 @@
 
 body {
-	display: flex
+	display: flex;
+	background-image: linear-gradient(to right, rgba(22, 22, 22, 0.78) 0% 100%), url("assets/background.jpg");
+	background-size: cover;
 }
