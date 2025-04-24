@@ -4,3 +4,20 @@ body {
 	background-image: linear-gradient(to right, rgba(22, 22, 22, 0.78) 0% 100%), url("assets/background.jpg");
 	background-size: cover;
 }
+
+* {
+	font-family: Futura;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+}
+
+#messagepane {
+	color: rgba(255, 255, 255, 0.85);
+}
+
+#folderTree li {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+#folderTree li li:hover {
+	color: white;
+}
