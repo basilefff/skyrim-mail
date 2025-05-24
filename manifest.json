@@ -3,5 +3,17 @@
 	"name": "Skyrim Mail",
 	"description": "Skyrim theme inspired by juxtopposed",
 	"version": "0.1.0",
-	"author": "Basil Chai"
+	"author": "Basil Chai",
+	"theme": {
+		"images": {
+			"theme_frame": "assets/background.jpg"
+		},
+		"colors": {
+			"sidebar": "rgba(0, 0, 0, 0)"
+		}
+	},
+	"theme_experiment": {
+		"colors": {
+		}
+	}
 }
